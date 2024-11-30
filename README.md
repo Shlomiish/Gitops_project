@@ -24,7 +24,7 @@ Welcome to my project! This repository contains the CI/CD pipeline for my "Hello
 - **Clone the Repository**
 
 ```
-  git clone https://github.com/Shlomiish/Migdal_Project.git
+  git clone https://github.com/Shlomiish/Gitops_project.git
 ```
 
 - **Configure AWS**
